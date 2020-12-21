@@ -1,0 +1,3 @@
+[submodule "gostack14-desafio-01-nodejs"]
+	path = gostack14-desafio-01-nodejs
+	url = https://github.com/cgalmeida/gostack14-desafio-01-nodejs.git
