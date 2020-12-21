@@ -1,3 +1,15 @@
 [submodule "gostack14-desafio-01-nodejs"]
 	path = gostack14-desafio-01-nodejs
 	url = https://github.com/cgalmeida/gostack14-desafio-01-nodejs.git
+[submodule "gostack14-desafio-06-db-upload"]
+	path = gostack14-desafio-06-db-upload
+	url = https://github.com/cgalmeida/gostack14-desafio-06-db-upload
+[submodule "gostack14-desafio-02-reactjs"]
+	path = gostack14-desafio-02-reactjs
+	url = https://github.com/cgalmeida/gostack14-desafio-02-reactjs
+[submodule "gostack14-desafio-03-react-native"]
+	path = gostack14-desafio-03-react-native
+	url = https://github.com/cgalmeida/gostack14-desafio-03-react-native
+[submodule "gostack14-desafio-04-fundamentos-node"]
+	path = gostack14-desafio-04-fundamentos-node
+	url = https://github.com/cgalmeida/gostack14-desafio-04-fundamentos-node
